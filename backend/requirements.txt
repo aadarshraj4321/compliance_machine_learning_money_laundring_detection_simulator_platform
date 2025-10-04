@@ -1,0 +1,17 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+Faker
+celery[redis] 
+google-generativeai
+scikit-learn 
+pandas 
+tensorflow 
+joblib
+networkx
+plotly
+requests
+python-multipart
